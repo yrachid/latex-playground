@@ -6,3 +6,5 @@
 *.toc
 
 *.aux
+output/*
+!output/*.pdf
